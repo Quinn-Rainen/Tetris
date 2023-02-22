@@ -1,2 +1,2 @@
 # Tetris
-Using python GUI make a playable version of Tetris
+Using python GUI and simple data structures allow a user to play a version of Tetris within Python.
